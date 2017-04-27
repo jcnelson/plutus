@@ -2,6 +2,8 @@
 
 This repository holds the code for in-application money management for Blockstack.
 
+Estimated delivery time is the end of summer 2017.
+
 # Design Notes
 
 Blockstack is built on top of one or more blockchains (via Chronos).  Registering Blockstack names requires spending the on-chain token.  Moreover, Blockstack applications will need a way to bill users for services rendered, preferably using these blockchain tokens.  This means that Blockstack apps need a way to send, receive, bill, and spend tokens on behalf of their users.
